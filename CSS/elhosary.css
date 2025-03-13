@@ -78,7 +78,7 @@ ul {
 }
 
 .header .logo {
-    color: brown;
+    color: var(--main-color);
     font-size: 26px;
     font-weight: bold;
     height: var(--height-const);
