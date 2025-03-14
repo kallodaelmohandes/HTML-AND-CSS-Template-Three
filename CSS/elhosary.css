@@ -207,7 +207,7 @@ ul {
 }
 
 .landing .go-down {
-    color: var(--main-color);
+    color: red;
     position: absolute;
     bottom: 30px;
     left: 50%;
@@ -220,7 +220,7 @@ ul {
 }
 
 .landing .go-down:hover {
-    /* color: var(--main-color-alt); */
+    color: var(--main-color-alt);
 }
 
 .landing .go-down i {}
