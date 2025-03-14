@@ -206,6 +206,12 @@ ul {
     height: 100%;
 }
 
+@media(max-width:991px) {
+    .landing .image img {
+        display: none;
+    }
+}
+
 .landing .go-down {
     color: var(--main-color);
     position: absolute;
