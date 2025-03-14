@@ -177,6 +177,7 @@ ul {
 }
 
 .landing .container {
+    color: aquamarine;
     min-height: calc(100vh - 72px);
     display: flex;
     align-items: center;
@@ -207,7 +208,7 @@ ul {
 }
 
 .landing .go-down {
-    color: red;
+    color: darkgreen;
     position: absolute;
     bottom: 30px;
     left: 50%;
